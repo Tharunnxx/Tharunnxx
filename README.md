@@ -2,11 +2,12 @@
 
 # Tharun C
 
-### Full-Stack & AI/ML Developer
+### AI/ML Engineer & Full-Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tharunnxx-181717?style=for-the-badge&logo=github)](https://github.com/Tharunnxx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharun%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-c-5651953b3/)
 [![Email](https://img.shields.io/badge/Email-tharunchandru88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunchandru88@gmail.com)
-[![College](https://img.shields.io/badge/Dayananda%20Sagar%20University-2023-blue?style=for-the-badge)](https://dsu.edu.in/)
+[![College](https://img.shields.io/badge/Dayananda%20Sagar%20University-2027-blue?style=for-the-badge)](https://dsu.edu.in/)
 
 </div>
 
@@ -14,15 +15,32 @@
 
 ## About
 
-I'm a final-year Computer Science student at **Dayananda Sagar University, Bengaluru**, focused on building full-stack applications backed by AI/ML — not just experimenting with models, but integrating them into production-style systems with real architecture, real data flows, and real tradeoffs.
+Final-year B.Tech (AI & Machine Learning) undergraduate building production-grade ML systems and full-stack applications — from fine-tuning transformer models to designing REST APIs and deploying ML microservices end-to-end.
 
 Each project below was built end-to-end: data layer, backend logic, integration with external APIs/models, and a working deployed product.
 
 - Built **Tripzo**, a ride-booking platform with a custom ML fare-prediction microservice and full payment integration
 - Built **InterviewX**, a voice-driven AI mock interview platform with dynamic question generation and structured AI evaluation
 - Built **Neural Vulnerability Detector**, a fine-tuned CodeBERT model for source-code vulnerability detection, deployed across three surfaces
+- Contributed the ARIMA forecasting analysis, bug fixes, and full documentation overhaul on **RL Portfolio Optimization**, a collaborative reinforcement learning project
 - Currently exploring LLM application architecture, RAG pipelines, and agentic systems
 - Open to roles in **AI/ML Engineering** or **Full-Stack Development**
+
+---
+
+## Skills
+
+**Languages:** Java, Python, JavaScript, TypeScript, SQL
+
+**Web/Backend:** HTML, CSS, REST APIs, Node.js, Express, FastAPI, Next.js
+
+**Databases:** PostgreSQL, Firebase/Firestore
+
+**AI/ML:** PyTorch, Hugging Face Transformers, Scikit-Learn, CodeBERT Fine-Tuning, ONNX, Prompt Engineering
+
+**Frontend:** React, React Native, TypeScript, Tailwind CSS
+
+**Tools:** Git, GitHub Actions (CI/CD), AWS, Agile/Scrum
 
 ---
 
@@ -58,7 +76,8 @@ Each project below was built end-to-end: data layer, backend logic, integration 
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-### Tools
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -79,6 +98,20 @@ Full-stack ride-booking app with transparent, ML-driven fare prediction.
 **Stack:** React Native · TypeScript · Node.js · Python · FastAPI · Scikit-Learn · PostgreSQL · Razorpay
 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/Tharunnxx/Tripzo)
+
+---
+
+### RL Portfolio Optimization — Reinforcement Learning for Stock Allocation
+Collaborative project combining PPO reinforcement learning with ARIMA time-series forecasting to dynamically allocate a two-stock portfolio, benchmarked against an equal-weight baseline.
+
+- Contributed the ARIMA forecast-vs-actual analysis, exposing and fixing an index-0 artifact in the prediction series
+- Fixed a missing `numpy` import and a hardcoded local file path that were blocking the notebook from running on other machines
+- Delivered the full documentation overhaul: architecture diagram, results section with Sharpe ratio and annualized return comparisons, installation/usage guides, and licensing
+- PPO agent achieved a Sharpe ratio of 0.295 versus 0.123 for the equal-weight baseline over the tested window
+
+**Stack:** Python · Stable-Baselines3 (PPO) · Statsmodels (ARIMA) · Gymnasium · Pandas · Matplotlib
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github)](https://github.com/Rahulskashyap/RL-Portfolio-Optimization)
 
 ---
 
@@ -119,6 +152,8 @@ Fine-tuned CodeBERT model that detects real security vulnerabilities in C/C++ so
 
 ![Tharun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharunnxx&show_icons=true&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharunnxx&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunnxx&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -128,6 +163,7 @@ Fine-tuned CodeBERT model that detects real security vulnerabilities in C/C++ so
 ## Contact
 
 - Email: [tharunchandru88@gmail.com](mailto:tharunchandru88@gmail.com)
+- LinkedIn: [Tharun C](https://www.linkedin.com/in/tharun-c-5651953b3/)
 - GitHub: [@Tharunnxx](https://github.com/Tharunnxx)
 
 <div align="center">
