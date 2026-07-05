@@ -2,7 +2,7 @@
 
 # Tharun C
 
-### AI/ML Engineer & Full-Stack Developer
+### AI Engineer · Full-Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tharunnxx-181717?style=for-the-badge&logo=github)](https://github.com/Tharunnxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharun%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-c-5651953b3/)
