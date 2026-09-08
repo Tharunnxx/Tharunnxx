@@ -29,45 +29,32 @@ Currently, I'm a **Data Analyst Intern at Bosch**, while also building an **Agen
 
 ## `02` Currently Building
 
-<table>
-<tr><td>
+**🤖 Agentic AI for Industrial Operations** — *Capstone Project, in active development*
 
-**🤖 Agentic AI for Industrial Operations**
-<sub>Capstone Project · In Active Development</sub>
+A multi-agent platform for industrial operations intelligence and decision support, built on production, machine, inventory, and sales data.
 
-A multi-agent AI platform for industrial operations intelligence, combining production, machine, inventory, and sales data.
+| Agent | What it does |
+|---|---|
+| **Production Intelligence** | Analyzes production performance and surfaces operational bottlenecks |
+| **Machine Health** | Monitors machine data and detects anomalies pointing to equipment issues |
+| **Inventory & Forecasting** | Studies demand patterns and forecasts inventory requirements |
+| **Decision Intelligence** | Combines insights across agents into recommendations for management |
 
-&nbsp;
-
-![Production](https://img.shields.io/badge/Production_Intelligence-161b22?style=flat-square&color=2ea043) ![Machine](https://img.shields.io/badge/Machine_Health-161b22?style=flat-square&color=2ea043) ![Inventory](https://img.shields.io/badge/Inventory_%26_Forecasting-161b22?style=flat-square&color=2ea043) ![Decision](https://img.shields.io/badge/Decision_Intelligence-161b22?style=flat-square&color=2ea043)
-
-Also explores `Anomaly Detection` · `Forecasting` · `What-If Analysis` · `Recommendations`
+The platform also supports **what-if analysis** — comparing potential operational decisions before acting on them — surfaced through a management dashboard.
 
 > **Goal —** build AI systems that don't just answer questions: they analyze, reason, evaluate scenarios, and support decisions.
-
-</td></tr>
-</table>
 
 <br>
 
 ## `03` Experience
 
-<table>
-<tr>
-<td width="4"><img src="https://img.shields.io/badge/-●-2ea043?style=flat-square&labelColor=161b22" width="16"/></td>
-<td>
-
 **Bosch Limited** — Data Analyst Intern
-`August 2026 – Present` · `Bidadi, Karnataka`
+`August 2026 – Present` · Bidadi, Karnataka
 
 - Source, clean, transform, and validate datasets for downstream analysis
 - Build interactive Power BI dashboards around business-relevant KPIs
 - Identify and resolve data-quality issues during processing
 - Prepare reliable datasets and analytical workflows for reporting and analysis
-
-</td>
-</tr>
-</table>
 
 <br>
 
